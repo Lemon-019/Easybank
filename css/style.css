@@ -77,7 +77,7 @@ body {
 }
 
 .hero {
-    background-image: url("/public/images/bg-intro-desktop.svg");
+    background-image: url("images/bg-intro-desktop.svg");
     background-repeat: no-repeat;
     background-size: 750px;
     background-position: right;
